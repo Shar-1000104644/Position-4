@@ -1,0 +1,19 @@
+
+.C{
+	height: 50px;
+	width: 50px;
+	position: relative;
+}
+.Rojo{
+	background-color: red;
+
+}
+.Azul{
+	background-color: blue;
+	left: 50px;
+	bottom: 50px;
+}
+.Verde{
+	background-color: green;
+	bottom: 50px;
+}
